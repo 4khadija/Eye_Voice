@@ -6,6 +6,7 @@ One of the key features of the app is its voice assistance functionality, which 
 ![image](https://github.com/4khadija/Eye_Voice/assets/75372993/0a618f93-69c2-435c-b541-f698c6d48093)
 ![image](https://github.com/4khadija/Eye_Voice/assets/75372993/9384d525-160f-4b67-a826-78ddd255f26f)
 ![image](https://github.com/4khadija/Eye_Voice/assets/75372993/8386a92d-bbb9-402d-939d-97528ad0f361)
+![image](https://github.com/4khadija/Eye_Voice/assets/75372993/d06853f4-e601-47ab-8cab-bb91737554c9)
 <img width="553" alt="image" src="https://github.com/4khadija/Eye_Voice/assets/75372993/41d1493e-9778-4128-8587-887c4c7357b6">
 <img width="497" alt="image" src="https://github.com/4khadija/Eye_Voice/assets/75372993/0b0f78c5-086d-4148-8ef8-3ba262cce9ae">
 
